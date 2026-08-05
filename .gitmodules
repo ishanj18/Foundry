@@ -1,0 +1,3 @@
+[submodule "Exercise-07-Dependencies/lib/openzeppelin-contracts"]
+	path = Exercise-07-Dependencies/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
